@@ -9,6 +9,7 @@ import java.io.FileInputStream;
 import java.nio.channels.FileChannel;
 import java.awt.FlowLayout;
 import java.io.*;
+///vishal sencha
 public class ImageEncryption{
     public static void Decrypt(int key) {
         JFileChooser filechooser=new JFileChooser();
